@@ -18,7 +18,7 @@ int main() {
     cin >> opcao;
 
     if (opcao == 1) {
-        
+    
     } else if (opcao == 2)
     {
         /* code */
