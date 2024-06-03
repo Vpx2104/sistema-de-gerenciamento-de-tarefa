@@ -241,8 +241,6 @@ int val = 0;
         val++;
 //criando uma opção de erro 
     } else {
-//imprimindo erro 
-        cout << "erro" << endl; 
     }
     
       
